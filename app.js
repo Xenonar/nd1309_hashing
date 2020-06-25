@@ -20,7 +20,3 @@ function generateHash(obj) {
 console.log(`SHA256 Hash: ${generateHash(data1)}`);
 console.log("************************************");
 console.log(`SHA256 Hash: ${generateHash(dataObject)}`);
-
-/**
- * Run your application using `node app.js`
- */
